@@ -1,0 +1,9 @@
+c:\users\daniel\documents\visual studio 2015\Projects\TSP\TSP\bin\Debug\TSP.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\TSP\TSP\obj\Debug\TSP.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\TSP\TSP\bin\Debug\TSP.exe
+c:\users\daniel\documents\visual studio 2015\Projects\TSP\TSP\bin\Debug\TSP.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\TSP\TSP\obj\Debug\TSP.exe
+c:\users\daniel\documents\visual studio 2015\Projects\TSP\TSP\obj\Debug\TSP.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\TSP\TSP\bin\Debug\C5.dll
+c:\users\daniel\documents\visual studio 2015\Projects\TSP\TSP\bin\Debug\C5.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\TSP\TSP\bin\Debug\C5.xml
